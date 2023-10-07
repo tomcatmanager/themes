@@ -1,0 +1,19 @@
+#
+# index of all available themes in this gallery
+#
+# this file allows tomcat-manager to only fetch one
+# file and be able to show all information about all
+# themes in this gallery
+#
+
+[monokai]
+file="monokai.toml"
+type="dark"
+
+[solarized-dark]
+file="solarized-dark.toml"
+type="dark"
+
+[solarized-light]
+file="solarized-light.toml"
+type="light"

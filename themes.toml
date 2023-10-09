@@ -8,12 +8,12 @@
 
 [monokai]
 file="monokai.toml"
-type="dark"
+description="monokai theme using color scheme from https://monokai.pro/"
 
 [solarized-dark]
 file="solarized-dark.toml"
-type="dark"
+description="dark theme using solarized color scheme from https://ethanschoonover.com/solarized/"
 
 [solarized-light]
 file="solarized-light.toml"
-type="light"
+description="light theme using solarized color scheme from https://ethanschoonover.com/solarized/"
